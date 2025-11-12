@@ -1,4 +1,4 @@
-# QA Portfolio – Le Duc Quo
+# QA Portfolio – Le Duc Quoc
 
 Hello! I am a recent graduate passionate about **software testing and quality assurance**.  
 I am actively developing my career as a **Tester Intern**, with practical experience in **Manual Testing** and ongoing learning in **Automation Testing**.  
