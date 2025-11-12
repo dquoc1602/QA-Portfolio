@@ -51,8 +51,10 @@ All projects include detailed **test cases**, **bug reports**, and **automation 
 
 - QA-Portfolio
   - Manual-Testing
+    - **Signal App**
+    - **E-commerce Website**
+    - **GoREST API**
   - Automation-Testing
-  - UI-UX-Practice
   - README.md
 
 ---
