@@ -49,12 +49,11 @@ Become a skilled QA Engineer, proficient in both Manual and Automation Testing, 
 
 All projects include detailed **test cases**, **bug reports**, and **automation scripts** where applicable. Check each folder for the full documentation:  
 
-QA-Portfolio/
-├── Manual-Testing/
-├── Automation-Testing/
-├── UI-UX-Practice/
-└── README.md
-
+- QA-Portfolio
+  - Manual-Testing
+  - Automation-Testing
+  - UI-UX-Practice
+  - README.md
 
 ---
 
